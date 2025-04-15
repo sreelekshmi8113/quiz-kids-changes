@@ -90,9 +90,9 @@ export default function HomeScreen() {
               {feedbackMessage}
             </div>
           )}
-
+{/* Group 20.png */}
           <img
-            src="/Group 20.png"
+            src="/all gif.gif"
             alt="Polar Bear"
             className="w-full max-w-[500px] h-auto object-contain"
           />
